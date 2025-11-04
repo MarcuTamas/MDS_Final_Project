@@ -1,0 +1,6 @@
+WPSNR,FilePath,AttackSequence
+40.479493360349714,output\ecorp\rollercoaster\ACME_ecorp_rollercoaster_8_1762165308965241200.bmp,RESIZE (scale=0.54) | SHARP
+39.777688617102086,output\ecorp\rollercoaster\ACME_ecorp_rollercoaster_0_1762165318337777900.bmp,JPEG (quality=45) | RESIZE (scale=1.08) | RESIZE (scale=0.93) | SHARP
+39.30985908489585,output\ecorp\rollercoaster\ACME_ecorp_rollercoaster_15_1762165355845210600.bmp,JPEG (quality=33) | AWGN (std=14.74)
+38.96453804084506,output\ecorp\rollercoaster\ACME_ecorp_rollercoaster_5_1762165281001166200.bmp,BLUR (ksize=3) | SHARP
+38.96453804084506,output\ecorp\rollercoaster\ACME_ecorp_rollercoaster_9_1762165330667985300.bmp,BLUR (ksize=3) | SHARP

@@ -1,0 +1,6 @@
+WPSNR,FilePath,AttackSequence
+46.48624739470699,output\crispymcmark\buildings\ACME_crispymcmark_buildings_13_1762162783695508300.bmp,RESIZE (scale=1.19) | JPEG (quality=60)
+45.755973710735496,output\crispymcmark\buildings\ACME_crispymcmark_buildings_8_1762162776579943800.bmp,RESIZE (scale=1.09) | JPEG (quality=53)
+45.15796818080469,output\crispymcmark\buildings\ACME_crispymcmark_buildings_4_1762162781728213100.bmp,RESIZE (scale=0.87)
+45.12061352247382,output\crispymcmark\buildings\ACME_crispymcmark_buildings_11_1762162769318043500.bmp,RESIZE (scale=0.87)
+45.08323074105825,output\crispymcmark\buildings\ACME_crispymcmark_buildings_4_1762162766514577700.bmp,JPEG (quality=68) | MEDIAN (ksize=3)

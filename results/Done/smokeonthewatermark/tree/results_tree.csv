@@ -1,0 +1,6 @@
+WPSNR,FilePath,AttackSequence
+43.05536195994869,output\smokeonthewatermark\tree\ACME_smokeonthewatermark_tree_7_1762162972812213800.bmp,AWGN (std=10.21)
+41.94505488080154,output\smokeonthewatermark\tree\ACME_smokeonthewatermark_tree_3_1762162941062938600.bmp,AWGN (std=11.64)
+41.55842268868349,output\smokeonthewatermark\tree\ACME_smokeonthewatermark_tree_13_1762162944296092200.bmp,AWGN (std=12.12)
+41.54909957891093,output\smokeonthewatermark\tree\ACME_smokeonthewatermark_tree_17_1762162984009512400.bmp,JPEG (quality=74) | AWGN (std=11.84)
+41.37781450639747,output\smokeonthewatermark\tree\ACME_smokeonthewatermark_tree_13_1762162935156742800.bmp,AWGN (std=12.33)

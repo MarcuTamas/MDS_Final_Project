@@ -1,0 +1,6 @@
+WPSNR,FilePath,AttackSequence
+39.27538462386258,output\ecorp\tree\ACME_ecorp_tree_1_1762165099906707100.bmp,MEDIAN (ksize=3) | AWGN (std=10.93)
+38.92633873386555,output\ecorp\tree\ACME_ecorp_tree_7_1762165108434136800.bmp,RESIZE (scale=0.51)
+38.78310816347891,output\ecorp\tree\ACME_ecorp_tree_5_1762165121386400300.bmp,RESIZE (scale=1.50) | MEDIAN (ksize=3) | AWGN (std=9.31)
+38.67216883464313,output\ecorp\tree\ACME_ecorp_tree_8_1762165114989000900.bmp,JPEG (quality=71) | AWGN (std=8.14) | RESIZE (scale=1.24) | JPEG (quality=52) | BLUR (ksize=3)
+38.61226083265536,output\ecorp\tree\ACME_ecorp_tree_12_1762165192151140200.bmp,MEDIAN (ksize=3) | RESIZE (scale=0.93) | JPEG (quality=57)

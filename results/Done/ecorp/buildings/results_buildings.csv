@@ -1,0 +1,6 @@
+WPSNR,FilePath,AttackSequence
+40.07396469458868,output\ecorp\buildings\ACME_ecorp_buildings_15_1762164868120636100.bmp,RESIZE (scale=1.47) | MEDIAN (ksize=3) | AWGN (std=10.36)
+39.4774944510034,output\ecorp\buildings\ACME_ecorp_buildings_18_1762164813762464400.bmp,JPEG (quality=81) | JPEG (quality=56) | RESIZE (scale=0.51) | SHARP | AWGN (std=6.46) | BLUR (ksize=5) | RESIZE (scale=1.31)
+38.63421972883824,output\ecorp\buildings\ACME_ecorp_buildings_4_1762164819398323500.bmp,RESIZE (scale=1.29) | AWGN (std=8.20) | RESIZE (scale=1.39) | RESIZE (scale=1.17) | JPEG (quality=40) | JPEG (quality=50)
+38.5542816064742,output\ecorp\buildings\ACME_ecorp_buildings_12_1762164820773570000.bmp,JPEG (quality=81) | AWGN (std=9.31) | AWGN (std=10.74) | RESIZE (scale=0.66)
+38.53684407680592,output\ecorp\buildings\ACME_ecorp_buildings_12_1762164783028478100.bmp,JPEG (quality=33) | AWGN (std=7.93) | BLUR (ksize=3) | JPEG (quality=86) | AWGN (std=11.63)

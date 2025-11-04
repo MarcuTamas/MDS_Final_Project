@@ -1,0 +1,6 @@
+WPSNR,FilePath,AttackSequence
+46.762349326010394,output\crispymcmark\tree\ACME_crispymcmark_tree_3_1762162594991567300.bmp,AWGN (std=6.54)
+46.521173813243976,output\crispymcmark\tree\ACME_crispymcmark_tree_0_1762162570124340600.bmp,RESIZE (scale=1.16)
+45.54556278776122,output\crispymcmark\tree\ACME_crispymcmark_tree_3_1762162593603121500.bmp,RESIZE (scale=0.99)
+45.53937113287874,output\crispymcmark\tree\ACME_crispymcmark_tree_5_1762162557308482800.bmp,RESIZE (scale=0.99)
+45.226814017419834,output\crispymcmark\tree\ACME_crispymcmark_tree_13_1762162556201205400.bmp,RESIZE (scale=0.96)

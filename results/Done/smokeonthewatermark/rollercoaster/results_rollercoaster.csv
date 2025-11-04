@@ -1,0 +1,6 @@
+WPSNR,FilePath,AttackSequence
+46.19674392755576,output\smokeonthewatermark\rollercoaster\ACME_smokeonthewatermark_rollercoaster_7_1762162903409862800.bmp,BLUR (ksize=3) | BLUR (ksize=3) | SHARP
+46.19672666752447,output\smokeonthewatermark\rollercoaster\ACME_smokeonthewatermark_rollercoaster_19_1762162885319526200.bmp,BLUR (ksize=5) | SHARP
+46.19672666752447,output\smokeonthewatermark\rollercoaster\ACME_smokeonthewatermark_rollercoaster_14_1762162891492394100.bmp,BLUR (ksize=5) | SHARP
+45.347029174626954,output\smokeonthewatermark\rollercoaster\ACME_smokeonthewatermark_rollercoaster_4_1762162879459382700.bmp,JPEG (quality=57) | BLUR (ksize=5) | SHARP
+44.18553955052302,output\smokeonthewatermark\rollercoaster\ACME_smokeonthewatermark_rollercoaster_17_1762162903985660700.bmp,RESIZE (scale=1.49) | JPEG (quality=87) | BLUR (ksize=3) | MEDIAN (ksize=3) | SHARP
